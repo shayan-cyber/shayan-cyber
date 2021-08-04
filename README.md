@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LifeStream](https://lifestream.pythonanywhere.com/)
+- 🔭 I’m currently working on [algoGeek](https://algogeek.herokuapp.com/)
 
 - 🌱 I’m currently learning **React, Machine Learning With Tenserflow, three.js**
 
-- 👨‍💻 All of my projects are available at [https://shayan-cyber.github.io/portfolio/](https://shayan-cyber.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://shayandebroy.pythonanywhere.com/](https://shayandebroy.pythonanywhere.com/)
 
 - 💬 Ask me about **django, python**
 
