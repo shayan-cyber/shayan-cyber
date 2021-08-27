@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shayan Debroy</h1>
 <h3 align="center">A passionate fullstack developer from India with 1.5 years + experience in django</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shayan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-cyber" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan-cyber" alt="shayan-cyber" /></a> </p>
+<div align="center" width="100%; margin-top:10px">
+<!--     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-cyber&layout=compact&theme=dracula"> -->
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shayan-cyber&show_icons=true&theme=dracula&count_private=t&hide=stars">
+</div>
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
