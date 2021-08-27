@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shayan Debroy</h1>
+<br>
+
+<img align="center"  src="https://i.imgur.com/WKLPv6K.gif"/>
+<br>
+
 <h3 align="center">A passionate fullstack developer from India with 1.5 years + experience in django</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-cyber" /> </p>
