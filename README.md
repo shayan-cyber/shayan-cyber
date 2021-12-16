@@ -45,6 +45,7 @@
     <img src="https://img.icons8.com/nolan/54/api-settings.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://i.imgur.com/6l6zWgd.png"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
