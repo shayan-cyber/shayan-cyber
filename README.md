@@ -19,7 +19,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://shayandebroy.pythonanywhere.com/](https://shayandebroy.pythonanywhere.com/)
+- 👨‍💻 My Portfolio [https://www.shayandebroy.live/](https://www.shayandebroy.live/)
 
 - 💬 Ask me about **django, python**
 
