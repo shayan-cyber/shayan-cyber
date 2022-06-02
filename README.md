@@ -21,7 +21,7 @@
 
 - 👨‍💻 My Portfolio [https://www.shayandebroy.live/](https://www.shayandebroy.live/)
 
-- 💬 Ask me about **django, python**
+- 💬 Ask me about **django, python, NextJS, TailwindCSS**
 
 - 📫 How to reach me **debroyshayan@gmail.com**
 
