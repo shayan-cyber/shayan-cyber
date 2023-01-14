@@ -61,8 +61,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-cyber&" alt="shayan-cyber" /></p>
 
-
-[![Ashutosh's github activity graph]([https://activity-graph.herokuapp.com/graph?username=shayan-cyber](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)&custom_title=Checkout%20My%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shayan-cyber&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
