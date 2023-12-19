@@ -61,8 +61,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-cyber&" alt="shayan-cyber" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shayan-cyber&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 ![snake gif](https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif)
