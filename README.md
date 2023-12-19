@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **debroyshayan@gmail.com**
 
-- 📄 Know about my experiences [SDE Intern at Knackit](https://knackit.in/)
+- 📄 Know about my experiences [SWE Intern at Atlassian](https://www.atlassian.com/)
 
 - ⚡ Fun fact **Irony Is The Key**
 
