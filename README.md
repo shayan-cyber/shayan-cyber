@@ -1,67 +1,74 @@
-<h1 align="center">Hi 👋, I'm Shayan Debroy</h1>
-<br>
+<h2 align="left">Hi 👋! My name is Shayan and I'm a Fullstack developer, from India</h2>
 
-<img align="center"  src="https://i.imgur.com/WKLPv6K.gif"/>
-<br>
+###
 
-<h3 align="center">A passionate fullstack developer from India with experience in django and NEXTjs</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shayan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-cyber" /> </p>
-
-<div align="center" width="100%" margin-top="10px">
-<!--     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-cyber&layout=compact&theme=dracula"> -->
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shayan-cyber&show_icons=true&theme=dracula&count_private=t&hide=stars">
+<div align="center">
+  <img height="200" src="https://shayan-debroy.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner_desktop.f0f5eea8.png&w=750&q=75"  />
 </div>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shayan-cyber&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-cyber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+###
 
+<br clear="both">
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- 👨‍💻 My Portfolio [https://www.shayandebroy.live/](https://www.shayandebroy.live/)
+###
 
-- 💬 Ask me about **django, python, NextJS, TailwindCSS**
+<br clear="both">
 
-- 📫 How to reach me **debroyshayan@gmail.com**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+</div>
 
-- 📄 Know about my experiences [SWE Intern at Atlassian](https://www.atlassian.com/)
+###
 
-- ⚡ Fun fact **Irony Is The Key**
+<div align="center">
+  <img height="150" src="https://i.giphy.com/QNFhOolVeCzPQ2Mx85.webp"  />
+</div>
 
+###
 
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shayan debroy" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="shayan debroy" height="30" width="40" /></a>
-<a href="https://fb.com/shayan debroy" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="shayan debroy" height="30" width="40" /></a>
-<a href="https://instagram.com/brain.planted" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="brain.planted" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shayan debroy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shayan debroy" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/shayan-cyber/shayan-cyber/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center" margin-top = "10px" margin-bottom="10px">
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
-    <img src="https://img.icons8.com/nolan/54/api-settings.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img style="width:70px; margin-bottom:-8px;" src="https://i.imgur.com/6l6zWgd.png"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</div>    
-<br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-cyber&show_icons=true&locale=en&layout=compact" alt="shayan-cyber" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-cyber&show_icons=true&locale=en" alt="shayan-cyber" /></p> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shayan-cyber/count.svg?"  />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-cyber&" alt="shayan-cyber" /></p>
-
-
-
-
-![snake gif](https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif)
+###
