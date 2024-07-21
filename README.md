@@ -64,9 +64,8 @@
 <br clear="both">
 
 <div align="center">
-![snake gif](https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif" />
 </div>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shayan-cyber/count.svg?"  />
